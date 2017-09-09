@@ -17,7 +17,7 @@ Default flavor based on Base16 Ocean Dark color scheme.
 Light variation based on Base16 Ocean Light color scheme.
 
 ![image](screenshots/spacegray-light.png)
-
+614hyun089
 #### Spacegray Eighties
 
 A variation based on Base16 Eighties Dark color scheme.
